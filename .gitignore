@@ -1,0 +1,18 @@
+﻿# 编译产物 / 依赖 / IDE 配置
+bin/
+obj/
+.vs/
+.vscode/
+.idea/
+node_modules/
+packages/
+dist/
+*.exe~
+logs/
+*.log
+.DS_Store
+# 敏感配置
+*.key
+*.pem
+.env
+config/database.json
